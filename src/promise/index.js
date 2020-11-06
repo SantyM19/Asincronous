@@ -35,5 +35,5 @@ Promise.all([someThingWillHappen(),someThingWillHappen2()])
         console.log('resulsts Array', response)
     })
     .catch(err => {
-        console.error(err)
+        console.error(err) 
     })
